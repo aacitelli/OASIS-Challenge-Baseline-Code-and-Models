@@ -1,0 +1,20 @@
+﻿  writeLayerXML.cpp
+c:\users\aacit\documents\oasis-challenge-baseline-code-and-models\oasis baseline source code\oasis baseline source\genlayer\slicefuns.h(42): fatal error C1083: Cannot open include file: 'readExcelConfig.h': No such file or directory
+  SliceFuns.cpp
+c:\users\aacit\documents\oasis-challenge-baseline-code-and-models\oasis baseline source code\oasis baseline source\genlayer\slicefuns.h(42): fatal error C1083: Cannot open include file: 'readExcelConfig.h': No such file or directory
+  main_genLayer.cpp
+c:\users\aacit\documents\oasis-challenge-baseline-code-and-models\oasis baseline source code\oasis baseline source\genlayer\slicefuns.h(42): fatal error C1083: Cannot open include file: 'readExcelConfig.h': No such file or directory
+  readExcelConfig.cpp
+  io_functions.cpp
+  errorChecks.cpp
+  BasicExcel.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): error C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  c:\users\aacit\documents\oasis-challenge-baseline-code-and-models\oasis baseline source code\oasis baseline source\shared_files\basicexcel.cpp(600): note: see reference to function template instantiation '_OutIt *std::copy<const wchar_t*,wchar_t*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=wchar_t *,
+              _InIt=const wchar_t *
+          ]
+  Generating Code...
+c:\users\aacit\documents\oasis-challenge-baseline-code-and-models\oasis baseline source code\oasis baseline source\shared_files\readexcelconfig.cpp(578): error C4703: potentially uninitialized local pointer variable 'oneSheet' used

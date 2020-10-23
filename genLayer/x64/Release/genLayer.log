@@ -1,0 +1,11 @@
+﻿  BasicExcel.cpp
+  errorChecks.cpp
+  io_functions.cpp
+  readExcelConfig.cpp
+  main_genLayer.cpp
+  SliceFuns.cpp
+  writeLayerXML.cpp
+  Generating code
+  All 4658 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  genLayer.vcxproj -> C:\Users\aacit\Documents\OASIS-Challenge-Baseline-Code-and-Models\OASIS baseline source code\OASIS baseline source\x64\Release\genLayer.exe
